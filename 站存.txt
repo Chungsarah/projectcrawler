@@ -1,0 +1,28 @@
+<a class="c-pagination__link" href="/search/?q=sony%20%E6%89%8B%E6%A9%9F&amp;p=46">46</a>
+//*[@id="txtSearchKeyword"]
+//*[@id="SearchProductList"]/div/div[2]/div[1]/div/input[1]
+//*[@id="SearchProductList"]/div/div[2]/div[1]/div/button
+<ul class="n-hover--img n-m-bottom--sm n-card__list fun-searchResult-list ">
+<span class="n-final-price">11,480</span>
+<a class="n-pager--active " href="javascript:;" title="下一頁"><i class="n-icon--next"></i></a>
+<a class="n-pager--last n-pager--active " href="javascript:;" title="最後頁"><i class="n-icon--last"></i></a>
+<a class="n-pager--first " href="javascript:;" title="最前頁"><i class="n-icon--first"></i></a>
+<a class="pagenum sendGA current" href="javascript:;" title="4" data-category="All_SwichPage" data-action="All_SwichPage" data-label="All_SwichPage" data-page="normalPage">4</a>
+//*[@id="searchResult"]
+//*[@id="__next"]/div[2]/header/div/div/span[2]/div[1]/div[1]/div/input
+<div class="SearchResult_searchResult__zAjJa"><div class="SearchResult_searchResultProduct___h6E9">
+<div class="Product_title__8K0xk">RASTO RS41 For iOS 蘋果專用線控耳機, R-EPA045, 白色</div>
+<span class="Product_salePricePrice__2FbsL"><span>$292</span></span>
+<input placeholder="$商品最低價" class="rt-form-input">
+//*[@id="searchKeyword"]
+<button id="btnFilter" class="filter-button filter-button-submit">
+<span class="rt-text-price rt-text-bold text-price-dollar">4,604</span>
+
+<button type="button" aria-label="下一頁" class="rt-pagination-icon-button rt-button rt-button-text rt-ml-2x"><span>下一頁</span> <svg class="icon" style="fill: currentcolor; width: 20px; height: 20px;"><use href="#icon-angle-right"></use></svg></button>
+<a href="https://www.ruten.com.tw/item/show?22508778216738" title="前往⑧比丶ns switch mig switch遊戲卡 v2按鍵版本商品頁面" target="_blank" class="rt-product-card-name-wrap"><p class="rt-product-card-name"><svg class="icon" style="fill: currentcolor; width: 70px; height: 24px;"><use href="#icon-ruten-choice"></use></svg>
+        ⑧比丶ns switch mig switch遊戲卡 v2按鍵版本
+      </p></a>
+<a aria-label="第40頁" data-param-key="p" data-param-value="40" class="rt-pager-button">40</a>
+<div class="search-result-container top-part" style=""><div class="product-item"><div class="rt-product-card" requestid="77c76915-51da-495a-82bf-cfd49804cdeb"><div class="rt-product-card-img-wrap"><!----> <div class="rt-product-card-activity-tag-wrap"><img src="https://a.rimg.com.tw/f1/eventtag/b4/44/9c/tag_item_pc/ee74de90c2a14b4481d38bdd6beadcc951eecd1a.png" title="永久" alt="永久" width="40" height="40" loading="eager" class="rt-product-card-activity-tag"></div> <a href="https://www.ruten.com.tw/item/show?22131236268769" title="★御玩家★Switch OLED 白色 紅藍 亮麗紅 薩爾達 主機 電力加強版 NS 任天堂 保固1年 主機組合" target="_blank" class="rt-product-card-img-link"><img src="https://gcs.rimg.com.tw/g1/f/f6/e1/22131236268769_235_m.jpg" alt="★御玩家★Switch OLED 白色 紅藍 亮麗紅 薩爾達 主機 電力加強版 NS 任天堂 保固1年 主機組合" title="★御玩家★Switch OLED 白色 紅藍 亮麗紅 薩爾達 主機 電力加強版 NS 任天堂 保固1年 主機組合" loading="eager" class="rt-product-card-img"></a> <div class="rt-product-card-favorite-action"><svg class="icon" style="fill: currentcolor; width: 24px; height: 24px;"><use href="#icon-favorite-heart"></use></svg></div> <!----> <div class="rt-product-card-img-top-tag-wrap"><span class="rt-product-card-twenty-four-ship-tag" style="display: none;"><svg class="icon" style="fill: currentcolor; width: 68px; height: 20px;"><use href="#icon-tag-twenty-four-hour-ship"></use></svg></span> <span class="rt-product-card-tag-three-day-ship-tag"><svg class="icon" style="fill: currentcolor; width: 66px; height: 20px;"><use href="#icon-tag-three-day-ship"></use></svg></span></div> <div class="rt-product-card-img-bottom-tag-wrap"><!----> <!----> <!----> <span class="rt-product-card-ad-tag">AD</span></div> <div class="rt-product-card-preorder-tag"><!----></div></div> <div class="rt-product-card-detail-wrap"><a href="https://www.ruten.com.tw/item/show?22131236268769" title="前往★御玩家★Switch OLED 白色 紅藍 亮麗紅 薩爾達 主機 電力加強版 NS 任天堂 保固1年 主機組合商品頁面" target="_blank" class="rt-product-card-name-wrap"><p class="rt-product-card-name"><svg class="icon" style="fill: currentcolor; width: 70px; height: 24px;"><use href="#icon-ruten-choice"></use></svg>
+        
+<input id="txtSearchKeyword" class="t-searchKeyword n-form--control ui-autocomplete-input" autocomplete="off" type="search" placeholder="PS5" title="PS5" maxlength="128" value="">
